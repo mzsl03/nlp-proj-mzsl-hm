@@ -1,5 +1,7 @@
 # nlp-proj-mzsl-hm
 
+![Bemutató videó linkje](https://youtu.be/BCcm6S3e5Ts)
+
 Ez a projekt egy nagyméretű szövegkorpuszon (Harry Potter) végzett szöveg-előkészítési, feltáró adatelemzési és neurális nyelvi modell kísérleteket mutat be.
 
 ## Projekt célja
